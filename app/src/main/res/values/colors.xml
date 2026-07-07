@@ -1,0 +1,12 @@
+<resources>
+    <color name="uc_background">#F2F2F7</color>
+    <color name="uc_group_background">#FFFFFF</color>
+    <color name="uc_primary_text">#111827</color>
+    <color name="uc_secondary_text">#6B7280</color>
+    <color name="uc_separator">#D1D5DB</color>
+    <color name="uc_accent">#007AFF</color>
+    <color name="uc_accent_pressed">#005FCC</color>
+    <color name="uc_success">#34C759</color>
+    <color name="uc_warning">#FF9500</color>
+    <color name="uc_danger">#FF3B30</color>
+</resources>
